@@ -1,0 +1,29 @@
+#abonner{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom:20px ;
+}
+
+
+
+#toggle{
+    margin-top: 50px;
+    width: 80%;
+    height: auto;
+    background-color: azure;
+    box-shadow: 2px 2px black;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    margin-bottom: 30px;
+}
+
+#infos{
+    text-align: center;
+}
+
+#infos a{
+    margin: 15px;
+}
